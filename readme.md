@@ -8,7 +8,7 @@ Create Date:	2020/7/31
 Note:
 ```
 
-![main](md_pic/main.JPG)
+![main](md_pic/main.jpg)
 
 [toc]
 
