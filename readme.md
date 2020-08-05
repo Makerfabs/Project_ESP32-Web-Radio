@@ -8,6 +8,8 @@ Create Date:	2020/7/31
 Note:
 ```
 
+[YOUTUBE:How to DIY an ESP32 Audio Player(3D print box)](https://youtu.be/uyHbnU4p6tc)
+
 ![main](md_pic/main.jpg)
 
 [toc]
