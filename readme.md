@@ -2,10 +2,11 @@
 
 ```c++
 /*
-Version:		V1.0
+Version:		V1.1
 Author:			Vincent
 Create Date:	2020/7/31
 Note:
+	2021/5/19	V1.1:The ESP32-audioI2S library changed, it changed a function which named "connecttohost(String)". I already upload a old version library zip.
 ```
 
 [YOUTUBE:How to DIY an ESP32 Audio Player(3D print box)](https://youtu.be/uyHbnU4p6tc)
@@ -41,9 +42,9 @@ MakePython Audio inherited the DAC chip and SD card module.The I2S chip allows y
 
 - Install board : esp32 .
 - Install library : Adafruit SSD1306 and dependent libraries.
-- Install zip library : [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)("Audio.h")
+- ~~Install zip library : [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S)("Audio.h")~~
+- install zip library：ESP32-audioI2S in directory.
 - Open file "/Project_ESP32-Web-Radio/web_radio/web_radio.ino"
-
 - Change the time WiFi ssid and password.
 
 ```c++
